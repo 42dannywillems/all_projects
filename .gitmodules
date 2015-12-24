@@ -4,3 +4,6 @@
 [submodule "42_libft"]
 	path = 42_libft
 	url = git@github.com:42dannywillems/42_libft.git
+[submodule "Piscine.OCaml"]
+	path = Piscine.OCaml
+	url = git@github.com:42dannywillems/Piscine.OCaml.git
