@@ -1,0 +1,6 @@
+[submodule "42_get.next.line"]
+	path = 42_get.next.line
+	url = git@github.com:42dannywillems/42_get.next.line.git
+[submodule "42_libft"]
+	path = 42_libft
+	url = git@github.com:42dannywillems/42_libft.git
